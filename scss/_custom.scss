@@ -3,6 +3,13 @@
 
 // Include any default variable overrides here (though functions won't be available)
 
-@import "../node_modules/bootstrap/scss/bootstrap";
+$primary: #127752;
+$secondary: #69BE5A;
+$dark: #0F3E29;
+$black: #042317;
+$font-family-sans-serif: "Montserrat", sans-serif !default;
+$font-family-serif: "Hind Madurai", serif !default;
+
+@import '../node_modules/bootstrap/scss/bootstrap';
 
 // Then add additional custom code here
